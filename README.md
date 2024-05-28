@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<em>IAs a dynamic developer and designer, I excel in both crafting engaging designs and solving complex software challenges. With a knack for quick learning, I bring versatility and adaptability to any project, whether it's creating captivating interfaces or architecting robust solutions.</em>
+<em>As a dynamic developer and designer, I excel in both crafting engaging designs and solving complex software challenges. With a knack for quick learning, I bring versatility and adaptability to any project, whether it's creating captivating interfaces or architecting robust solutions.</em>
 
 
 ## 🚀 About Me
