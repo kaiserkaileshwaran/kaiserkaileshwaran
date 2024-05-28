@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: inline-block; width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiserkaileshwaran&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 53%; height: auto; float: left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiserkaileshwaran&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 45%; height: auto; float: left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserkaileshwaran&layout=compact&theme=dracula" alt="Top Languages" style="width: 40%; height: auto; float : left">
 </div>
 
