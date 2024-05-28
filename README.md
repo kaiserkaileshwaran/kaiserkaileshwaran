@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<em>I'm a passionate problem solver with a knack for turning mathematical concepts, algorithms, and data structures into real-world solutions. As a perpetual learner and a devoted team player, I thrive on the thrill of overcoming challenges.</em>
+<em>IAs a dynamic developer and designer, I excel in both crafting engaging designs and solving complex software challenges. With a knack for quick learning, I bring versatility and adaptability to any project, whether it's creating captivating interfaces or architecting robust solutions.</em>
 
 
 ## 🚀 About Me
 
-- 🎓 Currently diving deep into the world of algorithms and data structures.
+- 🎓 Currently diving deep into the world of algorithms and data structures with a creative designer approach.
 - 💡 Always eager to explore new technologies and innovative solutions.
 - 🤝 Open to collaboration on projects that make an impact.
 
